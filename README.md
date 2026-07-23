@@ -147,4 +147,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-Built by [Your Name] — Week 2 submission, Generative AI & Prompt Engineering.
+Built by Tahir Mahmood — Week 2 submission, Generative AI & Prompt Engineering.
